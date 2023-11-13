@@ -1,0 +1,1 @@
+replace the file under gym into the folder of  "C:(the Python you used)\envs\rl\Lib\site-packages".
